@@ -1,0 +1,6 @@
+{
+	"name": "distributors",
+	"version": "0.0.0",
+	"main": "Distributors.js",
+	"private": true
+}
